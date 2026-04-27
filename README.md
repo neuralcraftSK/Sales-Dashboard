@@ -55,7 +55,7 @@ It enables users to monitor KPIs, identify trends, and make data-driven decision
 
 ## 🖼️ Dashboard Preview
 
-[![Dashboard Screenshot](./assets/dashboard.png)](https://github.com/neuralcraftSK/Sales-Dashboard/blob/main/Screenshot%202026-04-27%20142939.png)
+(https://github.com/neuralcraftSK/Sales-Dashboard/blob/main/Screenshot%202026-04-27%20142939.png)
 
 ---
 
